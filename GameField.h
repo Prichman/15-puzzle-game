@@ -1,5 +1,5 @@
-#ifndef MAINFIELD_H
-#define MAINFIELD_H
+#ifndef GAMEFIELD_H
+#define GAMEFIELD_H
 
 #include "Cell.h"
 
